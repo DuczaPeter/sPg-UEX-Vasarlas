@@ -1,2 +1,2 @@
-# sPg-UEX-V-s-rl-s
+# sPg UEX Vasarlas
 sPg UEX Vásárlás
